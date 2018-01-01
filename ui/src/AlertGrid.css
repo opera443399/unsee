@@ -1,0 +1,60 @@
+.unsee-alert-grid-sizer,
+.unsee-alert-grid-group {
+  width: 100%;
+}
+
+@media screen and (min-width: 700px) and (max-width: 1399px) {
+  .unsee-alert-grid-sizer,
+  .unsee-alert-grid-group {
+    width: 50%;
+  }
+}
+
+@media screen and (min-width: 1400px) and (max-width: 2099px) {
+  .unsee-alert-grid-sizer,
+  .unsee-alert-grid-group {
+    width: 33.333%;
+  }
+}
+
+@media screen and (min-width: 2100px) and (max-width: 2799px) {
+  .unsee-alert-grid-sizer,
+  .unsee-alert-grid-group {
+    width: 25%;
+  }
+}
+
+@media screen and (min-width: 2800px) and (max-width: 3499px) {
+  .unsee-alert-grid-sizer,
+  .unsee-alert-grid-group {
+    width: 20%;
+  }
+}
+
+@media screen and (min-width: 3500px) and (max-width: 4199px) {
+  .unsee-alert-grid-sizer,
+  .unsee-alert-grid-group {
+    width: 16.666%;
+  }
+}
+
+@media screen and (min-width: 4200px) and (max-width: 4899px) {
+  .unsee-alert-grid-sizer,
+  .unsee-alert-grid-group {
+    width: 14.285%;
+  }
+}
+
+@media screen and (min-width: 4900px) and (max-width: 5599px) {
+  .unsee-alert-grid-sizer,
+  .unsee-alert-grid-group {
+    width: 14.285%;
+  }
+}
+
+@media screen and (min-width: 5600px) {
+  .unsee-alert-grid-sizer,
+  .unsee-alert-grid-group {
+    width: 12.5%;
+  }
+}

@@ -1,0 +1,4 @@
+body {
+  /* navbar is static, so we need to add top padding to make room for it */
+  padding-top: 2.7rem;
+}

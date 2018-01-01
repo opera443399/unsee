@@ -1,0 +1,10 @@
+@import "../node_modules/bootswatch/dist/flatly/variables";
+
+$font-size-base: 1rem;
+$body-bg: $primary;
+
+// reduce padding around navbar to minimize the space it uses
+$navbar-padding-y: 0.3rem;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootswatch/dist/flatly/bootswatch";
